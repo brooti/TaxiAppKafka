@@ -1,0 +1,5 @@
+kafka:
+  consumer:
+    servers: localhost:9095, localhost:9093, localhost:9094
+    topic: input
+    group: taxi
